@@ -26,7 +26,7 @@ while (true) {
   let myProfile = {};
   let matchObject
 
-  console.log("Hi there!")
+
 
   
     while(true){
